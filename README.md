@@ -6,3 +6,4 @@ In 2019, for the first time in the literature, we developed a new version of the
 We assumed that in the first week, all patients should be hospitalized on the desired date. In the second week of planning, the earliest and latest admission dates are obtained by decreasing and increasing one day from the desired admission date. The possibility of two days and three days change in the admission time compared to the desired admission date is considered in the third and fourth weeks. Finally, patients' admission dates can be changed up to 4 days from the fifth week to the end of the planning horizon.
 
 The results of solving benchmark instances are as follows: 
+
